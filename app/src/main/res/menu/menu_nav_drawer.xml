@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_starred"
+            android:icon="@drawable/ic_starred"
+            android:title="@string/starred" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+    </group>
+
+    <item android:title="@string/action_items">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_donate"
+                android:icon="@drawable/ic_donate"
+                android:title="@string/donate" />
+            <item
+                android:id="@+id/nav_signOut"
+                android:icon="@drawable/ic_signout"
+                android:title="@string/sign_out" />
+        </menu>
+    </item>
+</menu>

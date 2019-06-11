@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"> MyNotes</string>
+    <string name="creators_name">Saikat</string>
+    <string name="creators_email">saikat@saikat.com</string>
+
+    <!--strings for swipe tab in main activity-->
+    <string name="notes_tab"> Notes</string>
+    <string name="notifications_tab">Notifications</string>
+
+    <!--Strings for navigation drawer-->
+    <string name="profile">Profile</string>
+    <string name="starred">Starred</string>
+    <string name="help">Help</string>
+    <string name="share">Share</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="donate">Donate us</string>
+    <string name="action_items">Actions</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--for activity new notes-->
+    <string name="add_note">Write Note</string>
+    <string name="save_note">Save</string>
+
+    <string name="title_activity_profile">profile title</string>
+
+
+</resources>
